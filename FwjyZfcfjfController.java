@@ -198,6 +198,11 @@ public class FwjyZfcfjfController {
 		} 
 		return HttpService.setHttpResult(httpResult);
 	}
+	
+	//c功能
+public void fun3(){
+	int a=1;
+}
 
 	/**
 	 * 执法查封审批映射
